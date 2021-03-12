@@ -23,28 +23,47 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  - organization: Stanford University
+    organization_url: 'https://www.stanford.edu'
+    title: Machine Learning
+    url: ''
+    certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/CW6KMCPPDDKX'
+    date_start: '2018-08-01'
+    date_end: ''
+    description: ''
+  - organization: HarvardX
+    organization_url: 'https://harvardx.harvard.edu'
+    title: 'CS50: Introduction to Computer Science'
+    url: ''
+    certificate_url: 'https://courses.edx.org/certificates/bc0e59ca7edd4ed08578d30f131db429'
+    date_start: '2017-01-01'
+    date_end: ''
+    description: ''
+  - organization: The University of British Columbia
+    organization_url: 'https://www.ubc.ca'
+    title: Systematic Program Design
+    url: ''
+    certificate_url: 'https://credentials.edx.org/credentials/2d693a63c73b4ff1bd2f415ec67d6e6d/'
+    date_start: '2017-02-01'
+    date_end: ''
+    description: ''
+  - organization: deeplearning.ai
+    organization_url: 'https://www.deeplearning.ai'
+    title: Deep Learning Spepcialization
+    url: ''
+    certificate_url: 'https://coursera.org/share/9bb150b39400409b8168ac116d205b1a'
+    date_start: '2019-01-01'
+    date_end: ''
+    description: ''
+  - organization: deeplearning.ai
+    organization_url: 'https://www.deeplearning.ai'
+    title: >-
+      Introduction to TensorFlow for Artificial Intelligence, Machine Learning,
+      and Deep Learning
+    url: ''
+    certificate_url: 'https://www.coursera.org/account/accomplishments/verify/98L6K7JZBB6Z'
+    date_start: '2019-03-01'
+    date_end: ''
+    description: ''
+
 ---
