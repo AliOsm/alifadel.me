@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Pretrained Ensemble Learning for Fine-Grained Propaganda Detection"
-authors: [Ali Fadel, Ibrahim Tuffaha, Mahmoud Al-Ayyoub]
+authors: [admin, Ibrahim Tuffaha, Mahmoud Al-Ayyoub]
 date: 2019-11-05
 doi: "10.18653/v1/D19-5020"
 

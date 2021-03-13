@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Arabic Text Diacritization Using Deep Neural Networks"
-authors: [Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh, Mahmoud Al-Ayyoub]
+authors: [admin, Ibraheem Tuffaha, Bara' Al-Jawarneh, Mahmoud Al-Ayyoub]
 date: 2019-05-01
 doi: "10.1109/CAIS.2019.8769512"
 

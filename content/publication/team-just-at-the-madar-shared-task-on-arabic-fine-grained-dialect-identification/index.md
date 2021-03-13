@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Team JUST at the MADAR Shared Task on Arabic Fine-Grained Dialect Identification"
-authors: [Bashar Talafha, Ali Fadel, Mahmoud Al-Ayyoub, Yaser Jararweh, AL-Smadi Mohammad, Patrick Juola]
+authors: [Bashar Talafha, admin, Mahmoud Al-Ayyoub, Yaser Jararweh, AL-Smadi Mohammad, Patrick Juola]
 date: 2019-08-23
 doi: "10.18653/v1/W19-4638"
 

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tha3aroon at NSURL-2019 Task 8: Semantic Question Similarity in Arabic"
-authors: [admin, Ibraheem Tuffaha, Mahmoud Al-Ayyoub]
-date: 2019-12-28
-doi: ""
+title: "JUSTers at SemEval-2020 Task 4: Evaluating Transformer Models against Commonsense Validation and Explanation"
+authors: [admin, Mahmoud Al-Ayyoub, Erik Cambria]
+date: 2020-12-08
+# doi: "10.1109/CAIS.2019.8769512"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-03-23T22:28:02+02:00
+publishDate: 2020-03-23T21:32:10+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2020-03-23T22:28:02+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop on NLP Solutions for Under Resourced Languages"
-publication_short: "NSURL"
+publication: "Fourteenth Workshop on Semantic Evaluation"
+publication_short: "SemEval"
 
-abstract: "In this paper, we describe our team's effort on the semantic text question similarity task of NSURL 2019. Our top performing system utilizes several innovative data augmentation techniques to enlarge the training data. Then, it takes ELMo pre-trained contextual embeddings of the data and feeds them into an ON-LSTM network with self-attention. This results in sequence representation vectors that are used to predict the relation between the question pairs. The model is ranked in the 1st place with 96.499 F1-score (same as the second place F1-score) and the 2nd place with 94.848 F1-score (differs by 1.076 F1-score from the first place) on the public and private leaderboards, respectively."
+abstract: "In this paper, we describe our team’s (JUSTers) effort in the Commonsense Validation and Explanation (ComVE) task, which is part of SemEval2020. We evaluate five pre-trained Transformer-based language models with various sizes against the three proposed subtasks. For the first two subtasks, the best accuracy levels achieved by our models are 92.90% and 92.30%, respectively, placing our team in the 12th and 9th places, respectively. As for the last subtask, our models reach 16.10 BLEU score and 1.94 human evaluation score placing our team in the 5th and 3rd places according to these two metrics, respectively. The latter is only 0.16 away from the 1st place human evaluation score."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Arabic NLP, Semantic Text Similarity, Deep Learning, Neural Networks]
+tags: [NLP, Commonsense, Deep Learning, Neural Networks]
 categories: [NLP]
 featured: false
 
@@ -36,9 +36,9 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1912.12514.pdf
-url_code: https://github.com/AliOsm/semantic-question-similarity
-url_dataset: https://ai.mawdoo3.com/nsurl-2019-task8
+url_pdf: https://www.aclweb.org/anthology/2020.semeval-1.66.pdf
+url_code: https://github.com/AliOsm/SemEval2020-Task4-ComVE
+url_dataset:
 url_poster:
 url_project:
 url_slides:

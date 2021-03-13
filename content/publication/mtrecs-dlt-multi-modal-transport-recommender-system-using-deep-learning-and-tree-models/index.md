@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "MTRecS-DLT: Multi-Modal Transport Recommender System using Deep Learning and Tree Models"
-authors: [Ayat Abedalla, Ali Fadel, Ibraheem Tuffaha, Hani Al-Omari, Mohammad Omari, Malak Abdullah, Mahmoud Al-Ayyoub]
+authors: [Ayat Abedalla, admin, Ibraheem Tuffaha, Hani Al-Omari, Mohammad Omari, Malak Abdullah, Mahmoud Al-Ayyoub]
 date: 2019-10-22
 doi: "10.1109/SNAMS.2019.8931864"
 

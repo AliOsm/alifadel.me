@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation"
-authors: [Ali Fadel, Ibraheem Tuffaha, Bara' Al-Jawarneh, Mahmoud Al-Ayyoub]
-date: 2019-11-05
+authors: [admin, Ibraheem Tuffaha, Bara' Al-Jawarneh, Mahmoud Al-Ayyoub]
+date: 2019-11-08
 doi: "10.18653/v1/D19-5229"
 
 # Schedule page publish date (NOT publication's date).
