@@ -14,7 +14,7 @@ organizations:
   url: https://www.amazon.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include natural language processing and information retrieval.
+bio: Software engineer interested in problem solving and machine learning based solutions, likes to create content and teach others.
 
 # Interests to show in About widget
 interests:
