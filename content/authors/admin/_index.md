@@ -68,4 +68,4 @@ email: "aliosm1997@gmail.com"
 highlight_name: true
 ---
 
-Ali Fadel is a software development engineer at Amazon. He is interested in machine learning research, specially, natural language processing (NLP) for Arabic language and source code. In parallel, he works on multiple small open-source projects to learn more about software engineering. Also, Ali is a Youtuber (A small Youtuber), he teaches problem solving, basic machine learning and other topics on his channel, {{< staticref "https://www.youtube.com/yags" "newtab" >}}YAGs{{< /staticref >}}.
+I am a software development engineer at Amazon. I am interested in machine learning research, specially, natural language processing (NLP) for Arabic language and source code related problems. In parallel, I am working on multiple small open-source projects to learn more about software engineering. Also, I am a Youtuber (A small one), I am teaching problem solving, basic machine learning and other topics on my channel, {{< staticref "https://www.youtube.com/yags" "newtab" >}}YAGs{{< /staticref >}}.
