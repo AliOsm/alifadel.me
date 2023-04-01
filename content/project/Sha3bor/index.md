@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sha3bor"
-summary: "Comprehensive suite of models for generating, diacritizing, and analyzing Arabic poetry using GPT2, BERT, and CANINE transformers. Secured third place in the [third place](https://twitter.com/arabthon/status/1538220050791940102) competition."
+summary: "Comprehensive suite of models for generating, diacritizing, and analyzing Arabic poetry using GPT2, BERT, and CANINE transformers. Secured third place in the [Arabthon](https://twitter.com/arabthon/status/1538220050791940102) competition."
 authors: []
 tags: [deep learning, nlp, arabic, poetry, gpt, generation, classification, transformers, python]
 categories: [nlp]
