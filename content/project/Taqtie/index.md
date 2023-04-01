@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ruby3arabi"
-summary: "The first Arabic website that explains Ruby programming language and provides online interpreter to allow users to run their codes while learning."
+title: "Taqtie"
+summary: "Intuitive audio and video editing GUI for content creators, enabling easy cutting and merging with a straightforward interface and minimal steps."
 authors: []
-tags: []
-categories: []
-date: 2020-01-27T22:06:18+03:00
+tags: [audio processing, video processing, macos, windows, ffmpeg, cpp, qtcreator, desktop]
+categories: [desktop applications]
+date: 2022-11-29T22:28:34+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://ruby3arabi.herokuapp.com"
+external_link: "https://github.com/ieasybooks/taqtie"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Code
+  url: https://github.com/ieasybooks/taqtie
+  icon_pack: fas
+  icon: code
 
 url_code: ""
 url_pdf: ""

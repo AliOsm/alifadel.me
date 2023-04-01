@@ -6,7 +6,7 @@ title: Ali Fadel
 superuser: true
 
 # Role/position/tagline
-role: Software Development Engineer
+role: Machine Learning Engineer II
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,6 +20,7 @@ bio: Software engineer interested in problem solving and machine learning based 
 interests:
 - Natural Language Processing
 - Software Engineering
+- Open-Source Projects
 - Problem Solving
 - Content Creation
 
@@ -35,24 +36,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:aliosm1997@gmail.com'
-- icon: youtube
-  icon_pack: fab
-  link: https://youtube.com/yags
 - icon: github
   icon_pack: fab
   link: https://github.com/AliOsm
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/aliosm
+- icon: youtube
+  icon_pack: fab
+  link: https://youtube.com/yags
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=NUl_vlcAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ali_Fadel4
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:aliosm1997@gmail.com'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,4 +69,4 @@ email: "aliosm1997@gmail.com"
 highlight_name: true
 ---
 
-I am a software development engineer at Amazon. I am interested in machine learning research, specially, natural language processing (NLP) for Arabic language and source code related problems. In parallel, I am working on multiple small open-source projects to learn more about software engineering. Also, I am a Youtuber (A small one), I am teaching problem solving, basic machine learning and other topics on my channel, {{< staticref "https://www.youtube.com/yags" "newtab" >}}YAGs{{< /staticref >}}.
+I am a machine learning engineer at Amazon, working on the search domain. Beyond my professional role, I am passionate about researching natural language processing (NLP) for the Arabic language, such as diacritization, as well as investigating source code-related issues such as author identification and generation. Simultaneously, I am involved in numerous open-source initiatives, aimed at expanding my software engineering knowledge and offering valuable resources for Muslims and Arabic speakers. Additionally, I maintain a modest YouTube presence where I educate viewers on problem-solving, fundamental machine learning concepts, and other subjects through my channel, {{< staticref "https://www.youtube.com/yags" "newtab" >}}YAGs{{< /staticref >}}.

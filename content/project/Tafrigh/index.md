@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "codeforces2pdf"
-summary: "User-friendly tool for effortlessly extracting CodeForces contests and problems into accessible, well-formatted PDF files."
+title: "Tafrigh"
+summary: "A user-friendly tool to convert YouTube videos into text, SRT, or VTT files using OpenAI's Whisper or Facebook's Wit.ai."
 authors: []
-tags: [python, codeforces, pdf]
-categories: [python packages]
-date: 2018-06-19T21:50:04+03:00
+tags: [deep learning, nlp, arabic, asr, whisper, wit.ai, facebook, openai, python, google colab]
+categories: [nlp, python packages]
+date: 2023-03-20T22:28:34+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/AliOsm/codeforces2pdf"
+external_link: "https://github.com/ieasybooks/tafrigh"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -17,18 +17,19 @@ external_link: "https://github.com/AliOsm/codeforces2pdf"
 image:
   caption: ""
   focal_point: ""
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Code
-  url: https://github.com/AliOsm/codeforces2pdf
+  url: https://github.com/ieasybooks/tafrigh
   icon_pack: fas
   icon: code
-- name: Improved Version
-  url: https://github.com/magnickolas/codeforces2pdf
+- name: Colab Notebook
+  url: https://colab.research.google.com/github/ieasybooks/tafrigh/blob/main/colab_notebook.ipynb
   icon_pack: fas
-  icon: arrow-up
+  icon: book-open
 
 url_code: ""
 url_pdf: ""

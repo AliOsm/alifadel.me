@@ -22,21 +22,21 @@ twitter: ''
 
 email: aliosm1997@gmail.com
 phone: +962 79 150 44 31
-address:
-  street: 17 Al-Habaneyah St.
-  city: Amman
-  # region: Amman
-  postcode: '11185'
-  country: Jordan
-  country_code: JO
-coordinates:
-  latitude: '31.964115'
-  longitude: '35.8810096'
+# address:
+#   street: 17 Al-Habaneyah St.
+#   city: Amman
+#   # region: Amman
+#   postcode: '11185'
+#   country: Jordan
+#   country_code: JO
+# coordinates:
+#   latitude: '31.964115'
+#   longitude: '35.8810096'
 contact_links:
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:ali.osman.1997?call'
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: 'skype:ali.osman.1997?call'
   - icon: telegram
     icon_pack: fab
     name: Chat on Telegram

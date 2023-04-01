@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "KONTESTS"
-summary: "Web crawler brings the programming contests from many online judges and schedule them in one place."
+summary: "Unified web crawler aggregates programming contests from multiple online judges, streamlining and centralizing scheduling in a single platform."
 authors: []
-tags: [Competitive Programming]
-categories: [Web]
-date: 2020-02-28T21:38:09+03:00
+tags: [competitive programming, rubyonrails, ruby, rails]
+categories: [web applications]
+date: 2018-06-26T21:38:09+03:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://kontests.net"
@@ -21,13 +21,17 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Code
+  url: https://github.com/AliOsm/kontests
+  icon_pack: fas
+  icon: code
+- name: Website
+  url: https://kontests.net
+  icon_pack: fas
+  icon: home
 
-url_code: "https://github.com/AliOsm/kontests"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

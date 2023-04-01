@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "codeforces2pdf"
-summary: "User-friendly tool for effortlessly extracting CodeForces contests and problems into accessible, well-formatted PDF files."
+title: "Sha3bor"
+summary: "Comprehensive suite of models for generating, diacritizing, and analyzing Arabic poetry using GPT2, BERT, and CANINE transformers. Secured third place in the [third place](https://twitter.com/arabthon/status/1538220050791940102) competition"
 authors: []
-tags: [python, codeforces, pdf]
-categories: [python packages]
-date: 2018-06-19T21:50:04+03:00
+tags: [deep learning, nlp, arabic, poetry, gpt, generation, classification, transformers, python]
+categories: [nlp]
+date: 2022-05-28T21:50:04+03:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/AliOsm/codeforces2pdf"
+external_link: "https://github.com/AliOsm/sha3bor-ai"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -21,14 +21,14 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Code
-  url: https://github.com/AliOsm/codeforces2pdf
+- name: AI Code
+  url: https://github.com/AliOsm/sha3bor-ai
   icon_pack: fas
   icon: code
-- name: Improved Version
-  url: https://github.com/magnickolas/codeforces2pdf
+- name: Website Code
+  url: https://github.com/AliOsm/sha3bor-webapp
   icon_pack: fas
-  icon: arrow-up
+  icon: code
 
 url_code: ""
 url_pdf: ""

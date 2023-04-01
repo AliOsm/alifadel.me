@@ -35,7 +35,7 @@ item:
     organization_url: 'https://harvardx.harvard.edu'
     title: 'CS50: Introduction to Computer Science'
     url: ''
-    certificate_url: 'https://courses.edx.org/certificates/bc0e59ca7edd4ed08578d30f131db429'
+    certificate_url: 'https://courses.edx.org/certificates/e843447cc4bd439faf7be3959d5c5f1f'
     date_start: '2017-01-01'
     date_end: ''
     description: ''
